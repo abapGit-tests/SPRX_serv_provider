@@ -4,8 +4,8 @@
   <asx:values>
    <VSEOCLASS>
     <CLSNAME>ZCL_ZABAPGIT_CALC_WS</CLSNAME>
-    <LANGU>D</LANGU>
-    <DESCRIPT>Generierte Testimplementierung</DESCRIPT>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Generated Test Environment</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
