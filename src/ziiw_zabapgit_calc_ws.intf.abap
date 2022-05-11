@@ -1,25 +1,25 @@
-interface ZIIW_ZABAPGIT_CALC_WS
-  public .
+INTERFACE ziiw_zabapgit_calc_ws
+  PUBLIC.
 
 
-  methods ADD
-    importing
-      !INPUT type ZADD_SOAP_IN
-    exporting
-      !OUTPUT type ZADD_SOAP_OUT .
-  methods DIVIDE
-    importing
-      !INPUT type ZDIVIDE_SOAP_IN
-    exporting
-      !OUTPUT type ZDIVIDE_SOAP_OUT .
-  methods MULTIPLY
-    importing
-      !INPUT type ZMULTIPLY_SOAP_IN
-    exporting
-      !OUTPUT type ZMULTIPLY_SOAP_OUT .
-  methods SUBTRACT
-    importing
-      !INPUT type ZSUBTRACT_SOAP_IN
-    exporting
-      !OUTPUT type ZSUBTRACT_SOAP_OUT .
-endinterface.
+  METHODS add
+    IMPORTING
+      !input  TYPE zadd_soap_in
+    EXPORTING
+      !output TYPE zadd_soap_out.
+  METHODS divide
+    IMPORTING
+      !input  TYPE zdivide_soap_in
+    EXPORTING
+      !output TYPE zdivide_soap_out.
+  METHODS multiply
+    IMPORTING
+      !input  TYPE zmultiply_soap_in
+    EXPORTING
+      !output TYPE zmultiply_soap_out.
+  METHODS subtract
+    IMPORTING
+      !input  TYPE zsubtract_soap_in
+    EXPORTING
+      !output TYPE zsubtract_soap_out.
+ENDINTERFACE.

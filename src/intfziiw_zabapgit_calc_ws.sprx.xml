@@ -70,7 +70,7 @@
      <IFR_SCALE>-2</IFR_SCALE>
      <R3_TYPE>METH</R3_TYPE>
      <R3_NAME>ADD</R3_NAME>
-     <R3_TEXT>Adds two integers. This is a test WebService. ©DNE Online</R3_TEXT>
+     <R3_TEXT>Adds two integers</R3_TEXT>
      <R3_SEQNUM>000001</R3_SEQNUM>
      <DIRECTION>I</DIRECTION>
      <SYNCHRON>X</SYNCHRON>
@@ -122,6 +122,7 @@
      <IFR_SCALE>-2</IFR_SCALE>
      <R3_TYPE>METH</R3_TYPE>
      <R3_NAME>DIVIDE</R3_NAME>
+     <R3_TEXT>Divide two integers</R3_TEXT>
      <R3_SEQNUM>000004</R3_SEQNUM>
      <DIRECTION>I</DIRECTION>
      <SYNCHRON>X</SYNCHRON>
@@ -173,6 +174,7 @@
      <IFR_SCALE>-2</IFR_SCALE>
      <R3_TYPE>METH</R3_TYPE>
      <R3_NAME>MULTIPLY</R3_NAME>
+     <R3_TEXT>Multiply two integers</R3_TEXT>
      <R3_SEQNUM>000003</R3_SEQNUM>
      <DIRECTION>I</DIRECTION>
      <SYNCHRON>X</SYNCHRON>
@@ -224,6 +226,7 @@
      <IFR_SCALE>-2</IFR_SCALE>
      <R3_TYPE>METH</R3_TYPE>
      <R3_NAME>SUBTRACT</R3_NAME>
+     <R3_TEXT>Substract two integers</R3_TEXT>
      <R3_SEQNUM>000002</R3_SEQNUM>
      <DIRECTION>I</DIRECTION>
      <SYNCHRON>X</SYNCHRON>
