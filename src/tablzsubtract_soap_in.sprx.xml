@@ -82,6 +82,22 @@
      <CATEGORY>ifmmessage</CATEGORY>
     </item>
    </PROXY_DATA>
+   <PROXY_SIG>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZSUBTRACT_SOAP_IN</OBJ_NAME>
+     <OBJECT1>METH</OBJECT1>
+     <OBJ_NAME1>SUBTRACT</OBJ_NAME1>
+     <DECL>9</DECL>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZSUBTRACT_SOAP_IN</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <X-ML_MSG_NAME>Subtract</X-ML_MSG_NAME>
+     <X-ML_MSG_NAMESPAC>http://tempuri.org/</X-ML_MSG_NAMESPAC>
+    </item>
+   </PROXY_SIG>
   </asx:values>
  </asx:abap>
 </abapGit>
