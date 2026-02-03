@@ -266,6 +266,7 @@
      <R3_SEQNUM>000001</R3_SEQNUM>
     </item>
    </PROXY_DATA>
+   <WEB_SERVICE>ZZABAPGIT_CALC_WS</WEB_SERVICE>
    <WEBI>
     <VEPTEXT>Proxy Interface (generated)</VEPTEXT>
     <PVEPHEADER>
